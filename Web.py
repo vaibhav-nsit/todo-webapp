@@ -1,3 +1,5 @@
+# To Run On terminal -- streamlit run C:\Users\herei\PycharmProjects\WebApp1\Web.py
+
 import streamlit as st
 import functions
 
